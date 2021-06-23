@@ -4,3 +4,6 @@ In this project, I used Javascript, HTML, and CSS to create a password generator
 Here is a link to the browser 
 file:///Users/pamelahammond/Desktop/Bootcamp/Password-Generator/index.html
 
+
+Here is a PDF of the screenshot of the deployed application in use
+[Password Generator screenshot.pdf](https://github.com/PamtheHam/Password-Generator/files/6703301/Password.Generator.screenshot.pdf)
